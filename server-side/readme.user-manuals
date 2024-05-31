@@ -1,1 +1,14 @@
+- Install Nodemon
+- Also need Cors, Donenv, MongoDB, Express
+- Example Mongodb: const uri = `mongodb+srv://${Your User}:${Your Password}@cluster0.vxqz6e2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
+Api:
+app.get('/mySpot/:email')
+app.get('/touristSpot/:id')
+app.get('/touristSpot')
+app.post('/addTouristSpot')
+app.delete('/mySpot/:id')
+app.get('/mySpot-data/:id')
+app.get('/singleProduct/:id')
+app.put('/updateProduct/:id')
+app.get('/countryList')
