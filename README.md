@@ -7,3 +7,11 @@
 - Community Engagement: Roamify fosters a vibrant community of travelers who share insights, tips, and recommendations, creating a supportive environment where users can connect, collaborate, and inspire each other to embark on new adventures.
 - Personalization: With advanced algorithms and user data analysis, Roamify offers personalized recommendations and suggestions, helping travelers discover hidden gems, off-the-beaten-path destinations, and unique experiences that align with their interests and preferences.
 - Trust and Reliability: Roamify prioritizes trust and reliability, partnering with reputable vendors, accommodations, and tour operators to ensure high-quality services and unforgettable experiences for every traveler. Additionally, the website provides transparent reviews and ratings from fellow travelers, empowering users to make informed decisions and plan their dream vacations with confidence.
+
+  ## Packaged Used:
+  - firebase
+  - react-awesome-reveal
+  - react-icons
+  - react-simple-typewriter
+  - sweetalert2
+  - swiper
